@@ -8,6 +8,7 @@ import FonctionnalitesEtonnantes from '@/components/landing/fonctionnalites-eton
 import CTASection from '@/components/landing/cta-section';
 
 const LandingPage = () => {
+	return <h1> hello world</h1>;
 	return (
 		<>
 			<Hero />
